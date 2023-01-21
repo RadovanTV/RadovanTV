@@ -1,7 +1,6 @@
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 <h1 align="center">Hi 👋, I'm Radovan</h1>
 <h3 align="center">A developer from North Macedonia</h3>
-<img align="right" alt="(img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/93727321/213835319-7a36859f-054e-402d-b484-bbd860f7ef2b.png)")">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radovantv&label=Profile%20views&color=0e75b6&style=flat" alt="radovantv" /> </p>
 
